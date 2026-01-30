@@ -274,6 +274,7 @@ section2[0].style.alignItems="center"
 section2[0].style.justifyContent="space-between"
 section2[0].style.padding="0 300px"
 section2[0].style.background="#000000"
+section2[0].style.margin="0 0 100px 0"
 
 
 const teg5 =document.getElementsByTagName("h1")
@@ -282,3 +283,16 @@ teg5[0].style.width="510px"
 teg5[0].style.color="#FFFFFF"
 teg5.style.width="662px"
 teg5.style.fontSize="42px"
+
+
+// section3
+const section3=document.getElementsByClassName("section3")
+console.log(section3)
+section3[0].style.width="100%"
+section3[0].style.height="404px"
+section3[0].style.display="flex"
+section3[0].style.alignItems="center"
+section3[0].style.justifyContent="space-between"
+section3[0].style.padding="0 300px"
+section3[0].style.background="#000000"
+section3[0].style.margin="0 0 100px 0"
