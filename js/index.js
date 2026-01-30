@@ -281,18 +281,207 @@ const teg5 =document.getElementsByTagName("h1")
 console.log(teg5)
 teg5[0].style.width="510px"
 teg5[0].style.color="#FFFFFF"
-teg5.style.width="662px"
-teg5.style.fontSize="42px"
+teg5[0].style.width="662px"
+teg5[0].style.fontSize="42px"
 
 
 // section3
-const section3=document.getElementsByClassName("section3")
+const section3=document.getElementsByClassName("section31")
 console.log(section3)
 section3[0].style.width="100%"
-section3[0].style.height="404px"
 section3[0].style.display="flex"
 section3[0].style.alignItems="center"
 section3[0].style.justifyContent="space-between"
 section3[0].style.padding="0 300px"
-section3[0].style.background="#000000"
-section3[0].style.margin="0 0 100px 0"
+section3[0].style.margin="80px 0 200px 0"
+
+const quti2=document.getElementsByClassName("quti2")
+console.log(quti2)
+quti2[0].style.width="293px"
+quti2[0].style.height="350px"
+quti2[0].style.background="#DDDDDD"
+quti2[0].style.padding="0 3px 0 3px"
+
+const displey=document.getElementsByClassName("displey")
+console.log(displey)
+displey[0].style.display="flex"
+displey[0].style.alignItems="center"
+displey[0].style.justifyContent="space-between"
+displey[0].style.padding="28px"
+
+const quti3=document.getElementsByClassName("quti3")
+console.log(quti3)
+quti3[0].style.width="287px"
+quti3[0].style.height="50px"
+quti3[0].style.display="flex"
+quti3[0].style.alignItems="center"
+quti3[0].style.justifyContent="center"
+quti3[0].style.background="#ffffff"
+
+quti3[1].style.width="287px"
+quti3[1].style.height="50px"
+quti3[1].style.display="flex"
+quti3[1].style.alignItems="center"
+quti3[1].style.justifyContent="center"
+quti3[1].style.background="#ffffff"
+
+
+quti3[2].style.width="287px"
+quti3[2].style.height="57px"
+quti3[2].style.display="flex"
+quti3[2].style.alignItems="center"
+quti3[2].style.justifyContent="center"
+quti3[2].style.background="#ffffff"
+
+// 2
+quti2[1].style.width="293px"
+quti2[1].style.height="350px"
+quti2[1].style.background="#DDDDDD"
+quti2[1].style.padding="0 3px 0 3px"
+
+displey[1].style.display="flex"
+displey[1].style.alignItems="center"
+displey[1].style.justifyContent="space-between"
+displey[1].style.padding="28px"
+
+
+quti3[3].style.width="287px"
+quti3[3].style.height="50px"
+quti3[3].style.display="flex"
+quti3[3].style.alignItems="center"
+quti3[3].style.justifyContent="center"
+quti3[3].style.background="#ffffff"
+
+quti3[4].style.width="287px"
+quti3[4].style.height="50px"
+quti3[4].style.display="flex"
+quti3[4].style.alignItems="center"
+quti3[4].style.justifyContent="center"
+quti3[4].style.background="#ffffff"
+
+
+quti3[5].style.width="287px"
+quti3[5].style.height="57px"
+quti3[5].style.display="flex"
+quti3[5].style.alignItems="center"
+quti3[5].style.justifyContent="center"
+quti3[5].style.background="#ffffff"
+
+// 3
+quti2[2].style.width="293px"
+quti2[2].style.height="350px"
+quti2[2].style.background="#DDDDDD"
+quti2[2].style.padding="0 3px 0 3px"
+
+displey[2].style.display="flex"
+displey[2].style.alignItems="center"
+displey[2].style.justifyContent="space-between"
+displey[2].style.padding="28px"
+
+
+quti3[6].style.width="287px"
+quti3[6].style.height="50px"
+quti3[6].style.display="flex"
+quti3[6].style.alignItems="center"
+quti3[6].style.justifyContent="center"
+quti3[6].style.background="#ffffff"
+
+quti3[7].style.width="287px"
+quti3[7].style.height="50px"
+quti3[7].style.display="flex"
+quti3[7].style.alignItems="center"
+quti3[7].style.justifyContent="center"
+quti3[7].style.background="#ffffff"
+
+
+quti3[8].style.width="287px"
+quti3[8].style.height="57px"
+quti3[8].style.display="flex"
+quti3[8].style.alignItems="center"
+quti3[8].style.justifyContent="center"
+quti3[8].style.background="#ffffff"
+
+// 4
+quti2[3].style.width="293px"
+quti2[3].style.height="350px"
+quti2[3].style.background="#DDDDDD"
+quti2[3].style.padding="0 3px 0 3px"
+
+displey[3].style.display="flex"
+displey[3].style.alignItems="center"
+displey[3].style.justifyContent="space-between"
+displey[3].style.padding="28px"
+
+
+quti3[9].style.width="287px"
+quti3[9].style.height="50px"
+quti3[9].style.display="flex"
+quti3[9].style.alignItems="center"
+quti3[9].style.justifyContent="center"
+quti3[9].style.background="#ffffff"
+
+quti3[10].style.width="287px"
+quti3[10].style.height="50px"
+quti3[10].style.display="flex"
+quti3[10].style.alignItems="center"
+quti3[10].style.justifyContent="center"
+quti3[10].style.background="#ffffff"
+
+
+quti3[11].style.width="287px"
+quti3[11].style.height="57px"
+quti3[11].style.display="flex"
+quti3[11].style.alignItems="center"
+quti3[11].style.justifyContent="center"
+quti3[11].style.background="#ffffff"
+
+
+
+const teg6 =document.getElementsByTagName("h5")
+console.log(teg6)
+teg6[0].style.fontSize="20px"
+teg6[0].style.fontWeight="700"
+
+
+teg6[1].style.fontSize="28px"
+teg6[1].style.fontWeight="700"
+
+
+teg6[2].style.fontSize="20px"
+teg6[2].style.fontWeight="700"
+
+
+teg6[3].style.fontSize="28px"
+teg6[3].style.fontWeight="700"
+
+
+teg6[4].style.fontSize="20px"
+teg6[4].style.fontWeight="700"
+
+
+teg6[5].style.fontSize="28px"
+teg6[5].style.fontWeight="700"
+
+teg6[6].style.fontSize="20px"
+teg6[6].style.fontWeight="700"
+
+
+teg6[7].style.fontSize="28px"
+teg6[7].style.fontWeight="700"
+
+
+
+// footer
+const imggs=document.getElementById("imggs")
+console.log(imggs)
+imggs.style.width="100px"
+imggs.style.height="50px"
+
+
+const footer=document.getElementsByClassName("footer")
+console.log(footer)
+footer[0].style.width="100%"
+footer[0].style.display="flex"
+footer[0].style.alignItems="center"
+footer[0].style.justifyContent="space-between"
+footer[0].style.padding="50px 300px"
